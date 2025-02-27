@@ -1,8 +1,4 @@
-name: Maven Package
-
-env:
-  DOCKER_HUB_REPO: 'walex5357/devops-app'
-  
+name: Maven Package  
 on:
   push:
     branches: ['master']
