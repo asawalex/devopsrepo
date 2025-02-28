@@ -1,6 +1,7 @@
 name: Maven Package  
-  env:
-    DOCKER_HUB_REPO: 'walex5357'/DevopsProject
+ env:
+  DOCKER_HUB_REPO: 'walex5357'/DevopsProject
+t
 on:
   push:
     branches: ['master']
